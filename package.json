@@ -1,0 +1,10 @@
+{
+    "name": "line-chat-bot",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "dependencies": {
+        "@line/bot-sdk": "^5.2.0",
+        "express": "^4.16.2"
+    }
+}
